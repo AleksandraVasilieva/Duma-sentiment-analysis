@@ -1,4 +1,4 @@
 # Duma-sentiment-analysis
 Thesis project:
 
-Natural Langiage Processing of State Duma members' speech
+Natural Language Processing of State Duma members' speeches
